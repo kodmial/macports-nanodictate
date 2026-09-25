@@ -12,7 +12,7 @@ Layout (standard MacPorts ports-tree layout):
 
 ```
 audio/nanodictate/
-├── Portfile             # real generated Portfile for v0.0.3 (release script output)
+├── Portfile             # real generated Portfile for the current NanoDictate release (release script output)
 └── config.example.toml  # canonical defaults, copied to ~/.config/nanodictate/config.toml on first launch
 ```
 
